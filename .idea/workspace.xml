@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e41dcc-1802-4406-9623-0f2859eda7c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5to5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubsetSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/square1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum 1209.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea 1208 teacher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea 4836.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea 4839_Binary_Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/width.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/246810.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/246810_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/246810_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/Ai_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/bigger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/bigger_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sum 1209.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea 1209.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,30 +53,30 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="py" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="Python" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="53" />
-          <entry key="py" value="4215" />
+          <entry key="dummy" value="67" />
+          <entry key="py" value="5652" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="53" />
-          <entry key="Python" value="4215" />
+          <entry key="PLAIN_TEXT" value="67" />
+          <entry key="Python" value="5652" />
         </counts>
       </usages-collector>
     </session>
@@ -88,11 +86,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/swea 4839_Binary_Search.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/after6pm/bigger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state>
+              <caret selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/after6pm/bigger_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/after6pm/Ai_min.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -130,21 +146,25 @@
         <option value="$PROJECT_DIR$/search.py" />
         <option value="$PROJECT_DIR$/sum 1209.py" />
         <option value="$PROJECT_DIR$/swea 4839_Binary_Search.py" />
+        <option value="$PROJECT_DIR$/after6pm/246810.py" />
+        <option value="$PROJECT_DIR$/after6pm/246810_1.py" />
+        <option value="$PROJECT_DIR$/after6pm/246810_2.py" />
+        <option value="$PROJECT_DIR$/after6pm/bigger.py" />
+        <option value="$PROJECT_DIR$/after6pm/bigger_1.py" />
+        <option value="$PROJECT_DIR$/after6pm/Ai_min.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="781" />
-    <option name="y" value="69" />
+    <option name="x" value="12" />
     <option name="width" value="1003" />
-    <option name="height" value="877" />
+    <option name="height" value="955" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,10 +172,16 @@
               <item name="projectswea" type="b2602c69:ProjectViewProjectNode" />
               <item name="projectswea" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="projectswea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectswea" type="462c0819:PsiDirectoryNode" />
+              <item name="after6pm" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,8 +200,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sum 1209">
-    <configuration name="5to5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Ai_min">
+    <configuration name="246810_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projectssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5to5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after6pm/246810_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SubsetSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="246810_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projectssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +230,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SubsetSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after6pm/246810_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ai_min" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projectssafy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after6pm/Ai_min.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bigger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projectssafy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after6pm/bigger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bigger_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projectssafy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after6pm/bigger_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,27 +348,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projectssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ssafy" type="PythonConfigurationType" factoryName="Python">
       <module name="projectssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -301,27 +369,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum 1209" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projectssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum 1209.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="swea 4834" type="PythonConfigurationType" factoryName="Python">
       <module name="projectssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,27 +382,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea 4834.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea 4836" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projectssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\student\PycharmProjects\projectswea\swea 4836.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -391,19 +417,19 @@
       <item itemvalue="Python.esca" />
       <item itemvalue="Python.medium" />
       <item itemvalue="Python.swea 4834" />
-      <item itemvalue="Python.swea 4836" />
-      <item itemvalue="Python.5to5" />
-      <item itemvalue="Python.SubsetSum" />
-      <item itemvalue="Python.search" />
-      <item itemvalue="Python.sum 1209" />
+      <item itemvalue="Python.246810_1" />
+      <item itemvalue="Python.246810_2" />
+      <item itemvalue="Python.bigger" />
+      <item itemvalue="Python.bigger_1" />
+      <item itemvalue="Python.Ai_min" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sum 1209" />
-        <item itemvalue="Python.search" />
-        <item itemvalue="Python.SubsetSum" />
-        <item itemvalue="Python.5to5" />
-        <item itemvalue="Python.swea 4836" />
+        <item itemvalue="Python.Ai_min" />
+        <item itemvalue="Python.bigger_1" />
+        <item itemvalue="Python.bigger" />
+        <item itemvalue="Python.246810_2" />
+        <item itemvalue="Python.246810_1" />
       </list>
     </recent_temporary>
   </component>
@@ -421,15 +447,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="781" y="69" width="1003" height="877" extended-state="0" />
+    <frame x="-9" y="0" width="1003" height="955" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865228" visible="true" weight="0.3523316" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865228" visible="true" weight="0.3523316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5013477" side_tool="true" visible="true" weight="0.3523316" />
+      <window_info id="Favorites" order="2" sideWeight="0.5013477" side_tool="true" weight="0.3523316" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.58625335" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39757413" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2597561" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3195122" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -462,6 +489,11 @@
           <url>file://$PROJECT_DIR$/search.py</url>
           <line>9</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/after6pm/246810_2.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -592,13 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SubsetSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -609,10 +634,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sum 1209.py">
+    <entry file="file://$PROJECT_DIR$/SubsetSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        <state relative-caret-position="190">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea 1209.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -620,6 +652,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/246810.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/246810_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/246810_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/bigger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/bigger_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/Ai_min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>
