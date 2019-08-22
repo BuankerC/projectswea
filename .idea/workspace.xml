@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e41dcc-1802-4406-9623-0f2859eda7c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20190822/swea 1959 두개의 숫자열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190822/swea 1961 num turn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190822/swea 1970 쉬운 거스름돈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190822/swea 1974 sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190822/swea 1979.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190822/swea 1983 조교의 성적 매기기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190822/swea 1984.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190822/test0822.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190822/test12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190822/파리 퇴치 ㄱㄴㄷㅁX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/20190822/card sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/20190822/problem 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/20190822/problem 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/20190822/problem 5_teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/20190822/swea 1983_teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/after6pm/20190822/파리채 응용 보충시간.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20190821/파리퇴치.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190821/파리퇴치.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +60,7 @@
         <counts>
           <entry key="html" value="1" />
           <entry key="ipynb" value="1" />
-          <entry key="py" value="136" />
+          <entry key="py" value="142" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -74,19 +69,19 @@
           <entry key="HTML" value="1" />
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="136" />
+          <entry key="Python" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="211" />
-          <entry key="py" value="25025" />
+          <entry key="py" value="26317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="211" />
-          <entry key="Python" value="25025" />
+          <entry key="Python" value="26317" />
         </counts>
       </usages-collector>
     </session>
@@ -97,46 +92,66 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190822/swea 1961 num turn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190822/swea 1970 쉬운 거스름돈.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190822/swea 1983 조교의 성적 매기기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20190822/파리 퇴치 ㄱㄴㄷㅁX.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
+            <state relative-caret-position="494">
               <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/after6pm/20190822/파리채 응용 보충시간.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190822/test12.py">
+        <entry file="file://$PROJECT_DIR$/after6pm/20190822/card sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="190">
+              <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+              <folding>
+                <marker date="1566469229806" expanded="true" signature="23:28" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/after6pm/20190822/swea 1983_teacher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/after6pm/20190822/problem 4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/after6pm/20190822/problem 5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/after6pm/20190822/problem 5_teacher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <marker date="1566473464283" expanded="true" signature="80:94" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -158,13 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20190819/swea 4873 fontdelete.py" />
-        <option value="$PROJECT_DIR$/20190819/swea 2001 kill fly.py" />
-        <option value="$PROJECT_DIR$/20190819/bitpart.py" />
-        <option value="$PROJECT_DIR$/20190819/swea 1859 millionaire.py" />
-        <option value="$PROJECT_DIR$/20190820/swea 1859 millionaire project.py" />
-        <option value="$PROJECT_DIR$/20190820/temp3.py" />
-        <option value="$PROJECT_DIR$/20190820/subset1.py" />
         <option value="$PROJECT_DIR$/20190820/subset2.py" />
         <option value="$PROJECT_DIR$/20190820/swea 1926 369game.py" />
         <option value="$PROJECT_DIR$/20190820/subset3.py" />
@@ -209,12 +217,18 @@
         <option value="$PROJECT_DIR$/20190822/swea 1970 쉬운 거스름돈.py" />
         <option value="$PROJECT_DIR$/20190822/swea 1983 조교의 성적.py" />
         <option value="$PROJECT_DIR$/20190822/swea 1983 조교의 성적 매기기.py" />
+        <option value="$PROJECT_DIR$/after6pm/20190822/card sort.py" />
+        <option value="$PROJECT_DIR$/after6pm/20190822/swea 1983_teacher.py" />
+        <option value="$PROJECT_DIR$/after6pm/20190822/problem 4.py" />
+        <option value="$PROJECT_DIR$/after6pm/20190822/problem 5.py" />
+        <option value="$PROJECT_DIR$/after6pm/20190822/problem 5_teacher.py" />
+        <option value="$PROJECT_DIR$/20190822/파리 퇴치 ㄱㄴㄷㅁX.py" />
+        <option value="$PROJECT_DIR$/after6pm/20190822/파리채 응용 보충시간.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="872" />
-    <option name="y" value="20" />
+    <option name="x" value="921" />
     <option name="width" value="1003" />
     <option name="height" value="955" />
   </component>
@@ -234,6 +248,12 @@
             <path>
               <item name="projectswea" type="b2602c69:ProjectViewProjectNode" />
               <item name="projectswea" type="462c0819:PsiDirectoryNode" />
+              <item name="after6pm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectswea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectswea" type="462c0819:PsiDirectoryNode" />
+              <item name="after6pm" type="462c0819:PsiDirectoryNode" />
               <item name="20190822" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -269,7 +289,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test12">
+  <component name="RunManager" selected="Python.파리채 모자이크">
+    <configuration name="파리채 응용 보충시간" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projectssafy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm/20190822" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\student\PycharmProjects\projectswea\after6pm\20190822\파리채 모자이크.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="파리채 모자이크" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projectssafy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm/20190822" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after6pm/20190822/파리채 모자이크.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="esca" type="PythonConfigurationType" factoryName="Python">
       <module name="projectssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,6 +374,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="problem 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projectssafy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm/20190822" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after6pm/20190822/problem 4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projectssafy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm/20190822" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after6pm/20190822/problem 5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem 5_teacher" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="projectssafy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/after6pm/20190822" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/after6pm/20190822/problem 5_teacher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ssafy" type="PythonConfigurationType" factoryName="Python">
       <module name="projectssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,48 +450,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssafy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea 1976 plus" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projectssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190821" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190821/swea 1976 plus.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea 1984 medium" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projectssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190821" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190821/swea 1984 medium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,27 +479,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea 5097 turn" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projectssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190821" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190821/swea 5097 turn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="temp" type="PythonConfigurationType" factoryName="Python">
       <module name="projectssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -438,67 +500,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test0822" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projectssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190822" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190822/test0822.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test12" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="projectssafy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190822" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190822/test12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.ssafy" />
       <item itemvalue="Python.temp" />
       <item itemvalue="Python.esca" />
       <item itemvalue="Python.medium" />
       <item itemvalue="Python.swea 4834" />
-      <item itemvalue="Python.swea 5097 turn" />
-      <item itemvalue="Python.swea 1976 plus" />
-      <item itemvalue="Python.swea 1984 medium" />
-      <item itemvalue="Python.test0822" />
-      <item itemvalue="Python.test12" />
+      <item itemvalue="Python.problem 4" />
+      <item itemvalue="Python.problem 5" />
+      <item itemvalue="Python.problem 5_teacher" />
+      <item itemvalue="Python.파리채 응용 보충시간" />
+      <item itemvalue="Python.파리채 모자이크" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test12" />
-        <item itemvalue="Python.test0822" />
-        <item itemvalue="Python.swea 1984 medium" />
-        <item itemvalue="Python.swea 1976 plus" />
-        <item itemvalue="Python.swea 5097 turn" />
+        <item itemvalue="Python.파리채 모자이크" />
+        <item itemvalue="Python.파리채 응용 보충시간" />
+        <item itemvalue="Python.problem 5_teacher" />
+        <item itemvalue="Python.problem 5" />
+        <item itemvalue="Python.problem 4" />
       </list>
     </recent_temporary>
   </component>
@@ -516,15 +536,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="872" y="20" width="1003" height="955" extended-state="0" />
+    <frame x="921" y="0" width="1003" height="955" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49312714" visible="true" weight="0.24974093" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49312714" visible="true" weight="0.24974093" />
       <window_info id="Structure" order="1" sideWeight="0.50859106" side_tool="true" weight="0.3523316" />
       <window_info id="Favorites" order="2" sideWeight="0.50687283" side_tool="true" visible="true" weight="0.24974093" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2902439" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2902439" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31829268" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -622,48 +642,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5to5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/esca.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SubsetSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssafy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190819/swea 1859 millionaire.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20190819/bitpart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -975,12 +953,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/20190822/card sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+          <folding>
+            <marker date="1566469229806" expanded="true" signature="23:28" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/20190822/problem 5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/20190822/swea 1983_teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/20190822/problem 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/20190822/problem 5_teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <marker date="1566473464283" expanded="true" signature="80:94" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20190822/파리 퇴치 ㄱㄴㄷㅁX.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
+        <state relative-caret-position="494">
           <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/after6pm/20190822/파리채 응용 보충시간.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
