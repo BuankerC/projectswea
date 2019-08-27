@@ -4,7 +4,7 @@ def f(X, Y): # X 긴 리스트, Y 짧은 리스트
         s = 0
         for j in range(0, len(Y)): # 짧은 리스트의 인덱스
             s += X[i+j]*Y[j]
-        if maxV<s
+        if maxV < s:
             maxV = s
     return maxV
 T = int(input())
