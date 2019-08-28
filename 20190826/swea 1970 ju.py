@@ -11,5 +11,5 @@ for tc in range(1, T + 1):
 
     print('#{}'.format(tc))
     for i in result:
-        print(i, ends=' ')
+        print(i, ends='')
     print('')

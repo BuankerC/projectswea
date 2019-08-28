@@ -1,7 +1,7 @@
 tc = int(input())
 for t in range(1, tc + 1):
     n = int(input())
-    st = ' '
+    st = ''
     for i in range(n):
         a, b = input().split()
         st += a * int(b)
