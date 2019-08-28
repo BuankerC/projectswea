@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71e41dcc-1802-4406-9623-0f2859eda7c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/20190828/swea 7510 sangwon plus.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190828/swea 7510 sangwon plus.py" afterDir="false" />
-    </list>
+    <list default="true" id="71e41dcc-1802-4406-9623-0f2859eda7c6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     <session id="-450750703">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="17" />
@@ -196,8 +194,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="921" />
-    <option name="y" value="95" />
+    <option name="x" value="255" />
+    <option name="y" value="37" />
     <option name="width" value="952" />
     <option name="height" value="1027" />
   </component>
@@ -496,12 +494,12 @@
   <component name="ToolWindowManager">
     <frame x="921" y="95" width="952" height="1027" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49390244" visible="true" weight="0.26367614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49390244" visible="true" weight="0.26367614" />
       <window_info id="Structure" order="1" sideWeight="0.50859106" side_tool="true" weight="0.3523316" />
       <window_info id="Favorites" order="2" sideWeight="0.50609756" side_tool="true" weight="0.24974093" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32735425" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32735425" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25657895" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
