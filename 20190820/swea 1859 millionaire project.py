@@ -9,7 +9,7 @@ for tc in range(1, T + 1):
 
     for i in range(len(prices) - 1, -1, -1):
         if prices[i] > max_price:
-            mac_price = prices[i]
+            max_price = prices[i]
         else:
             gain += (max_price - prices[i])
     print("#{} {}".format(tc, gain))

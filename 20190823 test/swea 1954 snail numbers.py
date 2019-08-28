@@ -23,4 +23,4 @@ for t in range(1, tc+1):
     for i in range(N):
         for j in range(N):
             print(ans[i][j], end=' ')
-            print()
+        print()
