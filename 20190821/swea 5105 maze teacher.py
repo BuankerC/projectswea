@@ -16,7 +16,7 @@ def bfs(i, j, N):
         for k in range(4):
             ni = i + di[k]
             nj = j + dj[k]
-            if ni >= 0 and ni < N and nj >= 0 and nj < 0 # 미로를 벗어나지 않았고
+            if ni >= 0 and ni < N and nj >= 0 and nj < 0: # 미로를 벗어나지 않았고
                 if maze[ni][nj] != 1 and visited[ni][nj] == 0: # 벽이 아니고, 방문하지 않은 칸이면
                     q.append([ni, nj]) # 인큐
                     visited[ni][nj] = visited[i][j] # 방문 표시
