@@ -1,30 +1,44 @@
 '''
-swea 1493 수의 새로운 연산 D3
+swea 1952 [모의 SW 역량테스트] 수영장
 '''
+for TC in range(1, int(input())+1):
+    t = list(map(int, input().split()))
+    p = list(map(int, input().split()))
+    res = t[3]
+    M = [0]*12
+    DPM = t[1]/t[0]
+    s = 0
 
-N = 300
-fact = [0] * (N + 1)
-fact[0] = 0
-fact[1] = 1
-for i in range(2, N + 1):
-    fact[i] = fact[i-1] + i-1
 
-def get_xy(n):
-    for i in range(len(fact)):
-        if fact[i] > n:
-            tmp = i-1
-            break
-    k = tmp - (n - fact[tmp])
-    return tmp+1-k, k
+    for i in range(len(p)):
+        if p[i] > DPM:
+            M[i] = t[1]
+        else:
+            M[i] = t[0]*p[i]
 
-def get_val(xy):
-    idx = xy[0] + xy[1] - 1
-    return fact[idx] + idx - xy[1]
 
-T = int(input())
-for tc in range(1, T+1):
-    u, v = map(int, input().split())
-    tmp_u = get_xy(u)
-    tmp_v = get_xy(v)
+    idx = 0
+    while idx < 12:
+        if idx < 10:
+            if M[idx]+M[idx+1]+M[idx+2] > t[2]:
+                M[idx], M[idx + 1], M[idx + 2] = t[2], 0, 0
+                idx += 3
+            else:
+                idx += 1
+        elif idx < 11:
+            if M[idx] + M[idx + 1] > t[2]:
+                M[idx], M[idx + 1] = t[2], 0
+                idx += 2
+            else:
+                idx += 1
+        elif idx < 12:
+            if M[idx] > t[2]:
+                M[idx] = t[2]
+                idx += 1
+            else:
+                idx += 1
+    s = sum(M)
+    if s < res:
+        res = s
 
-    print('#{} {}'.format(tc, get_val([tmp_u[0] + tmp_v[0], tmp_u[1] + tmp_v[1]])))
+    print("#{} {}".format(TC, res))
