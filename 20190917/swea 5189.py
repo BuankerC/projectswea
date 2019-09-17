@@ -28,9 +28,9 @@ for tc in range(1, TC+1):
     N = int(input())
     Battery = [list(map(int, input().split())) for _ in range(N)]
     visited = [0] * N
-    sub_result =  []
+    sub_result = []
     result = 0
-    final_result =[]
+    final_result = []
     DFS(0)
 
     print('#{} {}'.format(tc, min(final_result)))
