@@ -1,0 +1,21 @@
+'''
+백준 2447 별 찍기 - 10
+'''
+
+import sys
+
+num = int(input())
+
+def star(i, j):
+    while(i != 0):
+        if(i % 3 == 1 and j % 3 == 1):
+            sys.stdout.write(' ')
+            return None
+        i = i // 3
+        j = j // 3
+    sys.stdout.write('*')
+
+for i in range(num):
+    for j in range(num):
+        star(i, j)
+    sys.stdout.write('\n')
