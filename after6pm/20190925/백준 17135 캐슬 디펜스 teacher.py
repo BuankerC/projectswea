@@ -1,4 +1,24 @@
+def shoot(aw, target, N, M, D):  # aw가 맞추는 적을 target에 표시
+    q = []
+    v = [[0] * N for _ in range(N)]  # 이미 확인한 칸 표시
+    q.append(N - 1)
+    q.append(aw)
+    v[N - 1][aw] = 1
+    while(len(q) != 0):
+        r = q.pop(0)
+        c = q.pop(0)
 
+        if target[r][c] > 0 and v[r][c] <= D:  # 만약 적이 있으면 가까운 순이므로 적을 맞추고 중지
+            target[r][c] += 1
+            return
+
+        for k in range(3):  # 왼쪽, 앞, 오른쪽 순으로 확인
+            nr = r + dr[k]
+            nc = c + dc[k]
+            if 0 <= nr < N and 0 <= nc < N:
+                q.append(nr)
+                q.append(nc)
+                v[nr][nc] = v[r][c] + 1
 
 def defence(aw1, aw2, aw3, N, M, D):
     target = [[0] * M for _ in range(N)]
