@@ -51,4 +51,3 @@ for S in Archer:
         Map = [[0] * m] + Map[:n - 1]
     ans = max(ans, k)
 print(ans)
-
