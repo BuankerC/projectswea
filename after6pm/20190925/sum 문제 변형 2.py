@@ -3,7 +3,7 @@ sys.stdin = open('sum.txt', 'r')
 
 for case in range(1, int(input()) + 1):
     grid = [list(map(int, input().split())) for _ in range(100)]
-    minVal = 99999999999999999999
+    minVal = float('inf')
     targetheight = -1
     for height in range(29, 0, -1):
         nohope = 0
@@ -24,7 +24,7 @@ for case in range(1, int(input()) + 1):
         for j in range(100):
             grid[i][j] = abs(targetheight - grid[i][j])
 
-    minVal2 = 99999999999999999999
+    minVal2 = float('inf')
 
     result1 = 0
     result2 = 0
@@ -35,5 +35,4 @@ for case in range(1, int(input()) + 1):
         result2 += grid[i][99 - i]
 
     minVal2 = min(result1, minVal2, result2)
-    print(targetheight)
-    print('#{} {}'.format(case, minVal2))
+    print('#{} {} {}'.format(case, targetheight, minVal2))
