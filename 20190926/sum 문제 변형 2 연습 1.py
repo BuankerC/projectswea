@@ -10,6 +10,7 @@ for case in range(1, int(input()) + 1):
     grid = [list(map(int, input().split())) for _ in range(100)]
     minVal = float('inf')
     targetheight = -1
+
     for height in range(29, 0, -1):
         nohope = 0
         result = 0
@@ -22,7 +23,7 @@ for case in range(1, int(input()) + 1):
             if nohope == 1:
                 break
         else:
-            minVal = min(result, minVal)
+            minVal = result
             targetheight = height
 
     for i in range(100):
@@ -35,15 +36,11 @@ for case in range(1, int(input()) + 1):
     result2 = 0
     for i in range(100):
         minVal2 = min(minVal2, sum(grid[i]))
-
     for i in range(100):
         sero = 0
         for j in range(100):
             sero += grid[j][i]
         minVal2 = min(sero, minVal2)
-
-    # for i in range(100):
-        # minVal2 = min(minVal2, sum(list(zip(*grid))[i]))
 
     for i in range(100):
         result1 += grid[i][i]
