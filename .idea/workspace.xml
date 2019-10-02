@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e41dcc-1802-4406-9623-0f2859eda7c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/20191001/swea 5644.py" beforeDir="false" afterPath="$PROJECT_DIR$/20191001/swea 5644.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +45,12 @@
     <session id="-450750703">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="21" />
+          <entry key="project.open.time.2" value="22" />
           <entry key="project.open.time.3" value="4" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -93,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20191001/swea 1949.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="437">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
               <folding>
                 <marker date="1569924105781" expanded="true" signature="59:64" ph="..." />
               </folding>
@@ -106,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/20191001/swea 5644.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding>
                 <marker date="1569927014560" expanded="true" signature="65:337" ph="..." />
               </folding>
@@ -186,8 +186,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="989" />
-    <option name="y" value="12" />
+    <option name="x" value="938" />
+    <option name="y" value="16" />
     <option name="width" value="952" />
     <option name="height" value="1027" />
   </component>
@@ -484,7 +484,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="989" y="12" width="952" height="1027" extended-state="0" />
+    <frame x="938" y="16" width="952" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49390244" visible="true" weight="0.2273224" />
@@ -865,9 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <marker date="1569922309731" expanded="true" signature="18:23" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,10 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <marker date="1569841282013" expanded="true" signature="16:19" ph="..." />
-            <marker date="1569841282013" expanded="true" signature="34:270" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -886,11 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="e#42#67#0" expanded="true" />
-            <marker date="1569837432404" expanded="true" signature="108:113" ph="..." />
-            <marker date="1569837432404" expanded="true" signature="874:879" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,22 +896,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20191001/swea 5644.py">
+    <entry file="file://$PROJECT_DIR$/20191001/swea 1949.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="437">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
           <folding>
-            <marker date="1569927014560" expanded="true" signature="65:337" ph="..." />
+            <marker date="1569924105781" expanded="true" signature="59:64" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20191001/swea 1949.py">
+    <entry file="file://$PROJECT_DIR$/20191001/swea 5644.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state relative-caret-position="399">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding>
-            <marker date="1569924105781" expanded="true" signature="59:64" ph="..." />
+            <marker date="1569927014560" expanded="true" signature="65:337" ph="..." />
           </folding>
         </state>
       </provider>
