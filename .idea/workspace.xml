@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e41dcc-1802-4406-9623-0f2859eda7c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20191011/swea 5356.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20191011/swea 5601.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20190906/swea 5607.py" beforeDir="false" afterPath="$PROJECT_DIR$/20190906/swea 5607.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +58,7 @@
         <counts>
           <entry key="html" value="1" />
           <entry key="ipynb" value="1" />
+          <entry key="java" value="1" />
           <entry key="py" value="331" />
           <entry key="txt" value="1" />
         </counts>
@@ -67,6 +67,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="IPNB" value="1" />
+          <entry key="JavaFX" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="331" />
         </counts>
@@ -96,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/20191011/swea 2805 복습.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -105,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/20191011/swea 5549.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -114,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/20191011/swea 3750.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -128,11 +129,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20191011/swea 5356.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="161">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20191011/swea 5601.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -154,7 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20190820/swea 2005 pascal.py" />
         <option value="$PROJECT_DIR$/20190820/swea 2001 kil fiies.py" />
         <option value="$PROJECT_DIR$/20190823 test/swea 1954 snail numbers.py" />
         <option value="$PROJECT_DIR$/20190828/swea 6190 teacher2.py" />
@@ -205,11 +214,13 @@
         <option value="$PROJECT_DIR$/20191011/swea 3750.py" />
         <option value="$PROJECT_DIR$/20190906/swea 5607.py" />
         <option value="$PROJECT_DIR$/20191011/swea 5356.py" />
+        <option value="$PROJECT_DIR$/20191011/swea 5601.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="974" />
+    <option name="x" value="955" />
+    <option name="y" value="3" />
     <option name="width" value="952" />
     <option name="height" value="1027" />
   </component>
@@ -224,6 +235,11 @@
             <path>
               <item name="projectswea" type="b2602c69:ProjectViewProjectNode" />
               <item name="projectswea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectswea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectswea" type="462c0819:PsiDirectoryNode" />
+              <item name="20191011" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -501,7 +517,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="974" y="0" width="952" height="1027" extended-state="0" />
+    <frame x="945" y="0" width="952" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49390244" visible="true" weight="0.22647703" />
@@ -602,13 +618,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20190828/swea 4831 electric bus 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20190828/swea 4831 electric bus.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -897,14 +906,14 @@
     <entry file="file://$PROJECT_DIR$/20191011/swea 3750.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20191011/swea 5549.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -928,7 +937,7 @@
     <entry file="file://$PROJECT_DIR$/20191011/swea 2805 복습.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -941,8 +950,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20191011/swea 5356.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20191011/swea 5601.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
