@@ -6,6 +6,7 @@ p = 1234567891
 
 def power(base, ex):
     if ex == 0:
+        
         return 1
     elif ex == 1:
         return base
