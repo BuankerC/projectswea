@@ -1,8 +1,10 @@
 '''
-swea 2383. [모의 SW 역량테스트] 점심 식사시간
+swea 2383 .
+[모의 SW 역량테스트] 점심 식사시간
 '''
 from copy import deepcopy
 from collections import deque
+
 
 def do():
     global N
@@ -31,6 +33,7 @@ def do():
                     break
     return max(time)
 
+
 def dfs(n):
     global N, p_cnt, result
     if n == p_cnt:
@@ -42,6 +45,7 @@ def dfs(n):
         stairs[i].append(people[n])
         dfs(n + 1)
         stairs[i].pop()
+
 
 for tc in range(1, int(input()) + 1):
     N = int(input())
@@ -58,6 +62,6 @@ for tc in range(1, int(input()) + 1):
                 people.append([i, j])
             elif m[i][j]:
                 stair.append([i, j, m[i][j]])
-    result = 1000000000
+    result = 1000000000000
     dfs(0)
     print('#{} {}'.format(tc, result))
