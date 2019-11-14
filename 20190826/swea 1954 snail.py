@@ -9,8 +9,8 @@ for tc in range(1, T + 1):
     i = 0 # 현재 칸 좌표
     j = 0
     k = 1 # 칸에 기록할 값
-    while(k <= N*N): # 아직 NxN칸 이내면
-        arr[i][j] = k #현재 칸에 값을 쓰고
+    while(k <= N * N): # 아직 NxN칸 이내면
+        arr[i][j] = k # 현재 칸에 값을 쓰고
         k += 1 # 다음 칸에 쓸 값 결정
         # 다음 칸을 결정, 배열을 벗어나지 않고 비어있어야 함.
         # 현재 방향을 다음 칸을 계산할 지, 다음 방향을 계산할 지 결정
@@ -25,5 +25,5 @@ for tc in range(1, T + 1):
     print('#{}'.format(tc))
     for i in range(N):
         for j in range(N):
-            print(arr[i][j], end = ' ')
+            print(arr[i][j], end=' ')
         print()
