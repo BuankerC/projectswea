@@ -15,4 +15,4 @@ for tc in range(1, T):
             wag -= M
         road += 1
         i += 1
-    print(f'#{tc} {road + i}')
+    print('#%d %d' % (tc, road + i))
