@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71e41dcc-1802-4406-9623-0f2859eda7c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/20191112/swea 8797.py" beforeDir="false" afterPath="$PROJECT_DIR$/20191112/swea 8797.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20191121/백준 2167.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projectssafy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projectssafy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +49,11 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="46" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="32" />
           <entry key="project.open.time.3" value="10" />
-          <entry key="project.opened" value="49" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,7 +61,7 @@
           <entry key="html" value="1" />
           <entry key="ipynb" value="1" />
           <entry key="java" value="1" />
-          <entry key="py" value="349" />
+          <entry key="py" value="350" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -68,19 +71,19 @@
           <entry key="IPNB" value="1" />
           <entry key="JavaFX" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="349" />
+          <entry key="Python" value="350" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="388" />
-          <entry key="py" value="66206" />
+          <entry key="py" value="67380" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="388" />
-          <entry key="Python" value="66206" />
+          <entry key="Python" value="67380" />
         </counts>
       </usages-collector>
     </session>
@@ -128,43 +131,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20191115/swea 5653.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-              <folding>
-                <marker date="1573777065372" expanded="true" signature="87:92" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20191115/swea 4013.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <marker date="1573784765846" expanded="true" signature="54:59" ph="..." />
-                <marker date="1573784765846" expanded="true" signature="412:417" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20191112/swea 8702.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20191112/swea 8706.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="240">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
@@ -173,17 +142,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20191112/swea 8746.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20191112/swea 8797.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20191112/swea 8797.py">
+        <entry file="file://$PROJECT_DIR$/20191121/백준 2167.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="15" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -205,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20190906/swea 5607.py" />
         <option value="$PROJECT_DIR$/20191011/swea 5356.py" />
         <option value="$PROJECT_DIR$/20191011/swea 5601.java" />
         <option value="$PROJECT_DIR$/20191011/swea 1240 복습.py" />
@@ -244,7 +221,6 @@
         <option value="$PROJECT_DIR$/20191114/swea 5656.py" />
         <option value="$PROJECT_DIR$/20191114/swea 1953.py" />
         <option value="$PROJECT_DIR$/20191114/swea 4012.py" />
-        <option value="$PROJECT_DIR$/20191112/swea 8746.py" />
         <option value="$PROJECT_DIR$/20191114/swea 1953 선생님.py" />
         <option value="$PROJECT_DIR$/20191114/swea 1974 복습.py" />
         <option value="$PROJECT_DIR$/20190826/swea 1954 snail.py" />
@@ -255,7 +231,9 @@
         <option value="$PROJECT_DIR$/20191115/swea 4013.py" />
         <option value="$PROJECT_DIR$/20191112/swea 8702.py" />
         <option value="$PROJECT_DIR$/20191112/swea 8706.py" />
+        <option value="$PROJECT_DIR$/20191112/swea 8746.py" />
         <option value="$PROJECT_DIR$/20191112/swea 8797.py" />
+        <option value="$PROJECT_DIR$/20191121/백준 2167.py" />
       </list>
     </option>
   </component>
@@ -277,11 +255,6 @@
               <item name="projectswea" type="b2602c69:ProjectViewProjectNode" />
               <item name="projectswea" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="projectswea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projectswea" type="462c0819:PsiDirectoryNode" />
-              <item name="20191112" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -291,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -310,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.swea 8706">
+  <component name="RunManager" selected="Python.swea 8797">
     <configuration name="백준 16509" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="projectssafy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -535,9 +508,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.swea 8797" />
         <item itemvalue="Python.swea 8706" />
         <item itemvalue="Python.swea 1953 선생님" />
-        <item itemvalue="Python.swea 8797" />
         <item itemvalue="Python.swea 3809" />
         <item itemvalue="Python.백준 16509" />
       </list>
@@ -565,7 +538,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.50609756" side_tool="true" weight="0.24974093" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4941302" weight="0.33733624" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4941302" visible="true" weight="0.33733624" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5410886" weight="0.25655022" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -663,7 +636,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20191017/swea 5258.py" />
     <entry file="file://$PROJECT_DIR$/20191018/백준 2751.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -903,62 +875,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20191115/swea 4013.py">
+    <entry file="file://$PROJECT_DIR$/20191115/swea 2105.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <marker date="1573784765846" expanded="true" signature="54:59" ph="..." />
-            <marker date="1573784765846" expanded="true" signature="412:417" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20191112/swea 8702.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="646">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20191115/swea 5653.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state relative-caret-position="465">
           <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-          <folding>
-            <marker date="1573777065372" expanded="true" signature="87:92" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20191115/swea 2105.py">
+    <entry file="file://$PROJECT_DIR$/20191115/swea 4013.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
-          <folding>
-            <marker date="1573778416215" expanded="true" signature="107:112" ph="..." />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20191112/swea 8702.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20191112/swea 8706.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20191112/swea 8746.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20191112/swea 8797.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="240">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20191121/백준 2167.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="15" selection-end-column="68" />
         </state>
       </provider>
     </entry>
