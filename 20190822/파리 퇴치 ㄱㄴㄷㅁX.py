@@ -12,6 +12,9 @@ for T in range(int(input())):
                 t += flys[k][j+M-1]
             res1 = max(res1, t)
     print(f'ㄱ style result : {res1}', end=', ')
+\
+
+
 
     # ㄴ
     res2 = 0
